@@ -21,6 +21,7 @@ All notable, unreleased changes to this project will be documented in this file.
 - Fix user avatars - #639 by @dominik-zeglen
 - Reset modal state after closing - #644 by @dominik-zeglen
 - Fix incorrect messages - #643 by @dominik-zeglen
+- Fix updating product that has no variants - #649 by @dominik-zeglen
 
 ## 2.10.1
 
